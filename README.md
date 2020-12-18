@@ -1,6 +1,6 @@
 # Kazim Walji
 
-Senior in highschool, currently a Junior IOS Developer at Hideouts. I am especially interested in IOS App Development and Robotics. I am most experienced with Java, Swift, and backend APIs. 
+Senior in highschool, currently a Junior IOS Developer at Hideouts. I am especially interested in IOS App Development and Robotics. I am most experienced with Java, Swift, node.js and backend APIs. 
 https://www.linkedin.com/in/kazim-walji-2477111b4/
 
 # Hideouts
