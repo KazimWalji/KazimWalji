@@ -1,7 +1,10 @@
 # Kazim Walji
 
-Senior in highschool, currently a Junior IOS Developer at Hideouts. I am especially interested in IOS App Development and Robotics. I am most experienced with Java, Swift, node.js and backend APIs. 
-https://www.linkedin.com/in/kazim-walji-2477111b4/
+Senior in highschool, currently an IOS Developer at Kadama. I am especially interested in iOS App Development and Robotics.
+https://www.linkedin.com/in/kazimwalji/
+
+#Kadama
+Developing an app that was ranked #9 on the App Store for education. Improved the UI/UX design, added new features, and more. 
 
 # Hideouts
 Worked with a team to develop Hideouts and release it on the App store. Integrated In-App purchases, utilized Firebase Realtime Database so users can chat and accept friend requests, and worked on UI/UX. Setup a backend with node.js that sent specific users notifications when they recieved a chat message or friend request. 
