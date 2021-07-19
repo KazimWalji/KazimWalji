@@ -10,16 +10,14 @@ possible responses (similar to Linkedln’s messaging page), and a picture-in-pi
 
 # Robotics
 Programmed an autonomous and driver-controlled robot with Java that performed different tasks such as shooting frisbees or stacking blocks.
-Integrated a PID Control loop in order to ensure a consistent autonomous system
+Integrated a PID Control loop in order to ensure a consistent autonomous system. 
 Programmed and engineered a successful robot during that won the State Tournament and qualified
 for the World Championship
 
 # WeTrade
 Built an open-source iOS app that allowed users to buy and sell stock trading algorithms using
-Alpaca’s REST API
-Users can see the algorithms trading and their portfolio growing in realtime
-Algorithms were written in Python and hosted on AWS while the app was built in Swift.
+Alpaca’s REST API. 
+Users can see the algorithms trading and their portfolio growing in realtime. Algorithms were written in Python and hosted on AWS while the app was built in Swift.
 
 # Hideouts
-Developed an iOS social media app with Swift, UIKit, and Firebase for a startup
-Wrote and deployed Firebase Cloud Functions written in Node.js that sends notifications to users when they receive a new message or friend request in the app
+Developed an iOS social media app with Swift, UIKit, and Firebase for a startup. Wrote and deployed Firebase Cloud Functions written in Node.js that sends notifications to users when they receive a new message or friend request in the app
