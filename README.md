@@ -4,7 +4,10 @@ I'm crrently an IOS Developer at Kadama with a special interest in moble develop
 https://www.linkedin.com/in/kazimwalji/
 
 # Kadama
-Developing an app that has over 300K downloads and has been ranked #2 on the App Store for education. Improved the UI/UX design and improved the secuirty of the backend database. Added features like an improved chat system where users can save pre-typed messages and send them when they wish, similar to LinkedIn's messaging feature. 
+Developed an iOS app using Swift and UIKit that has over 300,000 users and reached #2 in the App
+Store for education. Added important features like pagination on the messages page, a collectionview that suggests
+possible responses (similar to Linkedln’s messaging page), and a picture-in-picture video chat view. Improved back-end 
+processes in Node.js when the app received a large influx of users. Used Google Cloud to catch violent or inappropriate pictures when uploaded into the cloud
 
 # Robotics
 Competed in the First Tech Challenge, and qualified for the World Championship. Won the Illinois State tournament. Programmed an autonomous and driver controlled robot using Java. Incorporated a vision-detection system with OpenCV that differentiated between different objects and developed my own Proportional Integral Derivative (PID) control loops. I have continued investigating and researching robotics and am currently learning machine learning and AI with PyTorch and Tensorflow. 
