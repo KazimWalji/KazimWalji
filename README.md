@@ -6,7 +6,7 @@ https://www.linkedin.com/in/kazimwalji/
 # Kadama
 Developed an iOS app using Swift and UIKit that has over 300,000 users and reached #2 in the App
 Store for education. Added important features like pagination on the messages page, a collectionview that suggests
-possible responses (similar to Linkedln’s messaging page), and a picture-in-picture video chat view. Improved back-end processes in Node.js when the app received a large influx of users. Used Google Cloud to catch violent or inappropriate pictures when uploaded into the cloud/
+possible responses (similar to Linkedln’s messaging page), and a picture-in-picture video chat view. Improved back-end processes in Node.js when the app received a large influx of users. Used Google Cloud to catch violent or inappropriate pictures when uploaded into the cloud.
 
 # Robotics
 Programmed an autonomous and driver-controlled robot with Java that performed different tasks such as shooting frisbees or stacking blocks.
