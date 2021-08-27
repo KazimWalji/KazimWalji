@@ -9,9 +9,8 @@ Store for education. Added important features like pagination on the messages pa
 possible responses (similar to Linkedln’s messaging page), and a picture-in-picture video chat view. Improved back-end processes in Node.js when the app received a large influx of users. Used Google Cloud to catch violent or inappropriate pictures when uploaded into the cloud.
 
 # Robotics
-Programmed an autonomous and driver-controlled robot with Java that performed different tasks such as shooting frisbees or stacking blocks.
-Integrated a PID Control loop in order to ensure a consistent autonomous system. 
-Programmed and engineered a successful robot during that won the State Tournament and qualified for the World Championship
+Programmed an autonomous and driver-controlled robot with Java that performed different tasks such as shooting frisbees or stacking blocks. Integrated a PID Control loop in order to ensure a consistent autonomous system. Programmed and engineered a successful robot during that won the State Tournament and qualified
+for the World Championship
 
 # WeTrade
 Built an open-source iOS app that allowed users to buy and sell stock trading algorithms using
