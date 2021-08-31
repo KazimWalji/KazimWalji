@@ -1,6 +1,6 @@
 # Kazim Walji
 
-I'm crrently an IOS Developer at Kadama with a special interest in moble development, back-end development, machine learning and robotics. 
+I'm crrently a student at UIC with a special interest in moble development, back-end development, and robotics. 
 https://www.linkedin.com/in/kazimwalji/
 
 # Kadama
