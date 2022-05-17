@@ -3,6 +3,12 @@
 I'm crrently a student at UIC with a special interest in moble development, back-end development, and robotics. 
 https://www.linkedin.com/in/kazimwalji/
 
+# Amazon
+Software Engineer on the Prime Reading team.
+
+# LinkedIn
+Mobile Engineer working on the feed growth team at LinkedIn. Changed how thumbnails of YouTube videos are rendered on LinkedIn's iOS app. Redesigned how reactions are displayed and rendered throughout the platform (search, feed, profile, etc). Changed how 'Follow' buttons are displayed and rendered on feed leading to a cleaner and more consistent codebase.
+
 # Kadama
 Developed an iOS app using Swift and UIKit that has over 300,000 users and reached #2 in the App
 Store for education. Added important features like pagination on the messages page, a collectionview that suggests
@@ -11,11 +17,3 @@ possible responses (similar to Linkedln’s messaging page), and a picture-in-pi
 # Robotics
 Programmed an autonomous and driver-controlled robot with Java that performed different tasks such as shooting frisbees or stacking blocks. Integrated a PID Control loop in order to ensure a consistent autonomous system. Programmed and engineered a successful robot during that won the State Tournament and qualified
 for the World Championship
-
-# WeTrade
-Built an open-source iOS app that allowed users to buy and sell stock trading algorithms using
-Alpaca’s REST API. 
-Users can see the algorithms trading and their portfolio growing in realtime. Algorithms were written in Python and hosted on AWS while the app was built in Swift.
-
-# Hideouts
-Developed an iOS social media app with Swift, UIKit, and Firebase for a startup. Wrote and deployed Firebase Cloud Functions written in Node.js that sends notifications to users when they receive a new message or friend request in the app.
