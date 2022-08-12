@@ -4,7 +4,7 @@ I'm crrently a student at UIC with a special interest in moble development, back
 https://www.linkedin.com/in/kazimwalji/
 
 # Amazon
-Implemented a scoped search bar on the prime reading storefront in the Kindle App (cross-platform), that allows customers to search for books that are part of their Prime membership. Added a left nav panel to the Prime Reading storefront that lets customers access other storefronts in the Kindle App without having to revisit the discover page. Wrote documentation and created tech designs that will help add scoped search bars to other storefronts in the Kindle App.
+Engineer on Prime Reading team
 
 # LinkedIn
 Mobile Engineer working on the feed growth team at LinkedIn. Changed how thumbnails of YouTube videos are rendered on LinkedIn's iOS app. Redesigned how reactions are displayed and rendered throughout the platform (search, feed, profile, etc). Changed how 'Follow' buttons are displayed and rendered on feed leading to a cleaner and more consistent codebase.
