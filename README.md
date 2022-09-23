@@ -1,13 +1,13 @@
 # Kazim Walji
 
-I'm crrently a student at UIC with a special interest in moble development, back-end development, and robotics. 
+I'm crrently a student at UIC with a special interest in moble development, software development, and robotics. 
 https://www.linkedin.com/in/kazimwalji/
 
 # Amazon
-Engineer on Prime Reading team
+Software Engineer on Prime Reading team
 
 # LinkedIn
-Mobile Engineer working on the feed growth team at LinkedIn. Changed how thumbnails of YouTube videos are rendered on LinkedIn's iOS app. Redesigned how reactions are displayed and rendered throughout the platform (search, feed, profile, etc). Changed how 'Follow' buttons are displayed and rendered on feed leading to a cleaner and more consistent codebase.
+Worked as an iOS Engineer Intern on the Home feed team using Objective-C and Swift. Increased consistency in the codebase by building reusable follow buttons and reaction icons that are referenced across the app in feed, profile, and search. Exceeded expectations by launching four major changes to LinkedIn’s iOS app, such as changing how external videos are presented on feed and by adding cards on Feed that suggests companies and people users can follow
 
 # Kadama
 Developed an iOS app using Swift and UIKit that has over 300,000 users and reached #2 in the App
