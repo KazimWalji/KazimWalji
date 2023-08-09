@@ -1,6 +1,6 @@
 # Kazim Walji
 
-I'm crrently a student at UIC interning at LinkedIn as a software engineering intern on the profile team. 
+
 https://www.linkedin.com/in/kazimwalji/
 
 # LinkedIn
